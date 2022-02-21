@@ -1,4 +1,7 @@
 #pragma once
+#ifndef _GlobalStaticLogging_hpp
+#define _GlobalStaticLogging_hpp
+
 #include <ILogger.hpp>
 
 namespace MirrorLog
@@ -62,3 +65,5 @@ namespace MirrorLog
 		_Logger = nullptr;
 	}
 }
+
+#endif // !_GlobalStaticLogging_hpp

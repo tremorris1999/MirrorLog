@@ -1,4 +1,6 @@
 #pragma once
+#ifndef _LogType_hpp
+#define _LogType_hpp
 
 namespace MirrorLog
 {
@@ -10,3 +12,5 @@ namespace MirrorLog
 		Debug
 	};
 }
+
+#endif // !_LogType_hpp

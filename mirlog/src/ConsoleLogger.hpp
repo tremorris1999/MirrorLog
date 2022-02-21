@@ -1,4 +1,7 @@
 #pragma once
+#ifndef _ConsoleLogger_hpp
+#define _ConsoleLogger_hpp
+
 #include <ILogger.hpp>
 
 namespace MirrorLog
@@ -16,3 +19,5 @@ namespace MirrorLog
 		std::ostream* _Buf;
 	};
 }
+
+#endif // !_ConsoleLogger_hpp

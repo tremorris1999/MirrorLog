@@ -1,3 +1,6 @@
+#pragma once
+#ifndef _MirrorLog_hpp
+#define _MirrorLog_hpp
 /**
  * @file mirrorlog.hpp
  * @author Trevor Morris (https://github.com/tremorris1999)
@@ -7,9 +10,7 @@
  * 
  * @copyright Copyright (c) 2022 or something
  * 
- */
-
-#pragma once;
+ */S
 
 // Interfaces
 #include <ILogger.hpp>
@@ -22,3 +23,5 @@
 
 // Usage
 #include <GlobalStaticLogging.hpp>
+
+#endif // !_MirrorLog_hpp

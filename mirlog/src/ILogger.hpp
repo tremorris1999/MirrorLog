@@ -1,4 +1,7 @@
 #pragma once
+#ifndef _ILogger_hpp
+#define _ILogger_hpp
+
 #include<iostream>
 #include <LogType.hpp>
 
@@ -11,3 +14,5 @@ namespace MirrorLog
 		virtual ~ILogger() {};
 	};
 }
+
+#endif // !_ILogger_hpp
