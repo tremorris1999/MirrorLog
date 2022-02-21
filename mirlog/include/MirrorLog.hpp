@@ -10,7 +10,7 @@
  * 
  * @copyright Copyright (c) 2022 or something
  * 
- */S
+ */
 
 // Interfaces
 #include <ILogger.hpp>
