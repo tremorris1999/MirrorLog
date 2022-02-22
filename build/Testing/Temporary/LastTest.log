@@ -1,10 +1,10 @@
-Start testing: Feb 22 09:48 Pacific Standard Time
+Start testing: Feb 22 09:53 Pacific Standard Time
 ----------------------------------------------------------
 1/2 Testing: GlobalStaticLogging
 1/2 Test: GlobalStaticLogging
 Command: "C:/dev/MirrorLog/build/tests/Debug/globalstaticlogging_tests.exe"
 Directory: C:/dev/MirrorLog/build/tests
-"GlobalStaticLogging" start time: Feb 22 09:48 Pacific Standard Time
+"GlobalStaticLogging" start time: Feb 22 09:53 Pacific Standard Time
 Output:
 ----------------------------------------------------------
 _Logger is null
@@ -20,7 +20,7 @@ ALL Tests Passed!
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"GlobalStaticLogging" end time: Feb 22 09:48 Pacific Standard Time
+"GlobalStaticLogging" end time: Feb 22 09:53 Pacific Standard Time
 "GlobalStaticLogging" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -28,7 +28,7 @@ Test Passed.
 2/2 Test: ConsoleLogger
 Command: "C:/dev/MirrorLog/build/tests/Debug/consolelogger_tests.exe"
 Directory: C:/dev/MirrorLog/build/tests
-"ConsoleLogger" start time: Feb 22 09:48 Pacific Standard Time
+"ConsoleLogger" start time: Feb 22 09:53 Pacific Standard Time
 Output:
 ----------------------------------------------------------
 Test: Default Constructor --- PASS
@@ -41,8 +41,8 @@ ALL Tests Passed!
 Test time =   0.02 sec
 ----------------------------------------------------------
 Test Passed.
-"ConsoleLogger" end time: Feb 22 09:48 Pacific Standard Time
+"ConsoleLogger" end time: Feb 22 09:53 Pacific Standard Time
 "ConsoleLogger" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Feb 22 09:48 Pacific Standard Time
+End testing: Feb 22 09:53 Pacific Standard Time
