@@ -113,7 +113,7 @@ int UnsetGlobalLogger_Success()
 	SetLogger(cl);
 	UnsetGlobalLogger();
 
-	if (!_Logger)
+	if (!IsGlobalLoggerSet())
 		return 0;
 	return -1;
 }
