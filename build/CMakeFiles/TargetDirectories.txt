@@ -1,8 +1,0 @@
-C:/dev/MirrorLog/build/CMakeFiles/RUN_TESTS.dir
-C:/dev/MirrorLog/build/CMakeFiles/ALL_BUILD.dir
-C:/dev/MirrorLog/build/CMakeFiles/ZERO_CHECK.dir
-C:/dev/MirrorLog/build/mirlog/CMakeFiles/mirrorlog.dir
-C:/dev/MirrorLog/build/mirlog/CMakeFiles/RUN_TESTS.dir
-C:/dev/MirrorLog/build/tests/CMakeFiles/globalstaticlogging_tests.dir
-C:/dev/MirrorLog/build/tests/CMakeFiles/consolelogger_tests.dir
-C:/dev/MirrorLog/build/tests/CMakeFiles/RUN_TESTS.dir

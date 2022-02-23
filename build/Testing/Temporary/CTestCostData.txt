@@ -1,3 +1,0 @@
-ConsoleLogger 3 0.00587787
-GlobalStaticLogging 2 0.00956485
----
